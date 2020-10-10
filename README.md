@@ -16,7 +16,7 @@ The basic system requirement for this project were-
 - Jupyter notebook
 
 # Libraries
-The different range of ibraries used for this project are-
+The different range of libraries used for this project are-
 - pandas 
 - numpy
 - matplotlib
