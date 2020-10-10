@@ -35,14 +35,14 @@ The challenges faced during the making of this project was majorly on the data. 
 Following thread will help to give an overview of the key findings made in the project-
 
 Ratio of paid apps vs free apps-
-![Result1](key diagrams/paid vs free.png?raw=true)
+![Result1](key%20diagrams/paid%20vs%20free.png?raw=true)
 
 Percentage of applications having more of a million or billion downloads-
-![Result2](key diagrams/downloads.png?raw=true)
+![Result2](key%20diagrams/downloads.png?raw=true)
 
 Popular applications available based on their category-
-![Result3](key diagrams/popular.png?raw=true)
+![Result3](key%20diagrams/popular.png?raw=true)
 
 Number of applications downloaded based on ratings vs category-
-![Result4](key diagrams/boxplot.png?raw=true)
+![Result4](key%20diagrams/boxplot.png?raw=true)
 
