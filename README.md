@@ -29,7 +29,7 @@ After importing all these libraries, we just dived into for our very own analyti
 This project is done with the help of [jupyter notebook](https://github.com/varrunshah/google-play-store-analysis-and-recommendation/blob/main/google%20play%20store%20project.ipynb). On opening the notebook you will be delighted to see the various analysis made and our job to overcome with all the answers with great endurance. The notebook describes all the functionalities done by us hoping to make it very clear with less or no confusion at all.
 
 # Challenges 
-The challenges faced during the making of this project was majorly on the data. Since most of the data was not as simple as expected, we had to face the problem of data inconsistency and its redundancy. Some of the inconsistencies included formatting of colums with null values or unecessary data, changing the size of the applications from M to MB, also python is not quite able to encounter the "+" sign with respect to the downloads made by a particular application.
+The challenges faced during the making of this project was majorly on the data. Since most of the data was not as simple as expected, we had to face the problem of data inconsistency and its redundancy. Some of the inconsistencies included formatting of columns with null values or unnecessary data, changing the size of the applications from M to MB, also python is not quite able to encounter the "+" sign with respect to the downloads made by a particular application.
 
 # Insights
 Following thread will help to give an overview of the key findings made in the project-
